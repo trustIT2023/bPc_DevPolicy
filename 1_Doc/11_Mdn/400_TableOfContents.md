@@ -16,7 +16,7 @@
 
 ### [GitHub](413_GitHub.md)
 
-- Mermaid(作成中]
+###  Mermaid(作成中]
 
 ---
 
@@ -24,7 +24,7 @@
 
 ### [データベース](421_DB_00_TableOfContents.md)
 
-- 画面デザイン(作成中]
+###  画面デザイン(作成中]
 
 ### [開発環境](423_DevelopmentEnvironment.md)
 
@@ -40,13 +40,15 @@
 
 ### [言語に依存しないコーディングの標準的お作法](432_Language-independentStandardCodingRules_00_TableOfContents.md)
 
-- オブジェクト指向(作成中)
+### オブジェクト指向(作成中)
 
 ### [デザインパターン](434_DesignPatterns_00_TableOfContents.md)
 
 ### [ログ](436_Log.md)
 
 ### [テストツール](437_TestTool.md)
+
+### 設計ルール(作成中)
 
 ---
 
