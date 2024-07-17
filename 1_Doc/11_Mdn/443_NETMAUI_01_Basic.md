@@ -10,8 +10,8 @@
 ### 基礎知識
 
 - [.NET マルチプラットフォーム アプリ UI のドキュメント](https://learn.microsoft.com/ja-jp/dotnet/maui/?view=net-maui-8.0)
-- [アーキテクチャガイド](../14_Rcv/441_NETMAUI/Enterprise-Application-Patterns-Using-.NET-MAUI.pdf)<sup>参考図書443_1</sup>
+- [アーキテクチャガイド](../14_Rcv/441_NETMAUI/Enterprise-Application-Patterns-Using-.NET-MAUI.pdf)<sup>r443_1</sup>
 
 ## 引用文献
 
-> [参考図書443_1](https://dotnet.microsoft.com/ja-jp/learn/dotnet/architecture-guides)
+> [r443_1](https://dotnet.microsoft.com/ja-jp/learn/dotnet/architecture-guides)

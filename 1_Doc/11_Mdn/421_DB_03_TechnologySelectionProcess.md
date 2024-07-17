@@ -5,10 +5,10 @@
 
 ## SQL ServerとAccessの比較
 
-![Alt](../13_Ref/421_DB/データベース選定2.png)
-![Alt](../13_Ref/421_DB/データベース選定3.png)
-![Alt](../13_Ref/421_DB/データベース選定4.png)
-![Alt](../13_Ref/421_DB/データベース選定5.png)
+![Alt](../13_Ref/421_DB/r421_3_データベース選定2.png)
+![Alt](../13_Ref/421_DB/r421_3_データベース選定3.png)
+![Alt](../13_Ref/421_DB/r421_3_データベース選定4.png)
+![Alt](../13_Ref/421_DB/r421_3_データベース選定5.png)
 
 ## SQL ServerとMySQLの比較
 
@@ -37,4 +37,4 @@ Microsoft SQL ServerとMySQLの比較を以下の表にまとめました。
 
 ## 引用文献
 
-> ChatGPT
+> r421_3:ChatGPTから引用

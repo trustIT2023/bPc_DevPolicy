@@ -12,7 +12,7 @@
 
 ## MAUIのマテリアルデザインサンプル
 
-![Alt](../13_Ref/スタイル定義/マテリアルデザイン2.png)
+![Alt](../13_Ref/443_StyleDefine/r443_マテリアルデザイン2.png)
 
 ### VisualStateManager
 

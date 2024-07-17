@@ -19,3 +19,7 @@
 ### [【発展】クラスの定義](432_Language-independentStandardCodingRules_08_class.md)
 
 ### [【発展】SOLID 原則](432_Language-independentStandardCodingRules_09_solid.md)
+
+## 引用文献
+
+> [プログラミング中級者になりたい人のためのクリーンコード入門_Udemy_CodeMafia](https://www.udemy.com/course/clean-code-tutorial/?couponCode=THANKSLEARNER24)

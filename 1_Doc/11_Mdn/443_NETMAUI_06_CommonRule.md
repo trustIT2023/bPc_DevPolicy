@@ -26,11 +26,11 @@
 
 **開発コードのフォルダー構成は以下の概念を採用(ドメイン駆動開発の例を参考とする)。**
 
-![Alt](../13_Ref/422_TrustRule/422_PgFolderStructure1_udemy_ドメイン駆動開発パート2.png)
-![Alt](../13_Ref/422_TrustRule/422_PgFolderStructure2_udemy_ドメイン駆動開発パート2.png)
-![Alt](../13_Ref/422_TrustRule/422_PgFolderStructure3_udemy_ドメイン駆動開発パート2.png)
-![Alt](../13_Ref/422_TrustRule/422_PgFolderStructure4_udemy_ドメイン駆動開発パート2.png)
-![Alt](../13_Ref/422_TrustRule/422_PgFolderStructure5_udemy_ドメイン駆動開発パート2.png)
+![Alt](../13_Ref/422_TrustRule/r422_udm_ドメイン駆動開発パート2_PgFolderStructure1.png)
+![Alt](../13_Ref/422_TrustRule/r422_udm_ドメイン駆動開発パート2_PgFolderStructure2.png)
+![Alt](../13_Ref/422_TrustRule/r422_udm_ドメイン駆動開発パート2_PgFolderStructure3.png)
+![Alt](../13_Ref/422_TrustRule/r422_udm_ドメイン駆動開発パート2_PgFolderStructure4.png)
+![Alt](../13_Ref/422_TrustRule/r422_udm_ドメイン駆動開発パート2_PgFolderStructure5.png)
 
 ## コーディング規約
 

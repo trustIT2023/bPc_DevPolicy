@@ -11,5 +11,3 @@
 ### [.NET MAUIの画面設計](443_NETMAUI_04_ScreenSesign_00_TableOfContents.md)
 
 ### [各種個別機能](443_NETMAUI_05_Function.md)
-
-### [.NET MAUIとC#の共通ルール](443_NETMAUI_06_CommonRule.md)

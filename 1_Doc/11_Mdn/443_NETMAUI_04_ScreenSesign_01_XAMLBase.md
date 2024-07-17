@@ -21,13 +21,10 @@
 
 #### 名前空間の説明抜粋
 
-![Alt](../13_Ref/スタイル定義/名前空間_XAMLによるUWPアプリ開発入門_1.png)
-![Alt](../13_Ref/スタイル定義/名前空間_XAMLによるUWPアプリ開発入門_2.png)
-![Alt](../13_Ref/スタイル定義/名前空間_XAMLによるUWPアプリ開発入門_3.png)
-![Alt](../13_Ref/スタイル定義/名前空間_XAMLによるUWPアプリ開発入門_4.png)
-
-
-
+![Alt](../13_Ref/443_StyleDefine/r443_名前空間_XAMLによるUWPアプリ開発入門_1.png)
+![Alt](../13_Ref/443_StyleDefine/r443_名前空間_XAMLによるUWPアプリ開発入門_2.png)
+![Alt](../13_Ref/443_StyleDefine/r443_名前空間_XAMLによるUWPアプリ開発入門_3.png)
+![Alt](../13_Ref/443_StyleDefine/r443_名前空間_XAMLによるUWPアプリ開発入門_4.png)
 
 ### マークアップ拡張
 
@@ -43,7 +40,6 @@
 
 - [StackLayout(Microsoft公式)](https://learn.microsoft.com/ja-jp/dotnet/maui/user-interface/layouts/stacklayout?view=net-maui-8.0)
 
-
 #### ボタン
 
 - [ボタンプロパティ詳細](https://prosen.net/programming-dotnet-maui-xaml-ui-button/)
@@ -53,12 +49,14 @@
 
 - [Entryの使い方まとめ](https://marunaka-blog.com/net-maui-use-entry/7408/)
 
-
 #### スクロール
 
 - [ScrollViewコントロールの参考情報1](https://learn.microsoft.com/ja-jp/dotnet/maui/user-interface/controls/scrollview?view=net-maui-8.0)
 
-
 #### TextBlock
 
 - [WPF版_XAMLのスタイルの基本をTextBlockで学ぶ](https://learn.microsoft.com/ja-jp/dotnet/maui/user-interface/controls/scrollview?view=net-maui-8.0)
+
+## 引用文献
+
+> r443_名前空間_XAMLによるUWPアプリ開発入門: UWP アプリ開発 101 第2版: Windows Forms 開発者のための C# / XAML による UWP アプリ開発入門 (Kindle版),2017,BluewaterSoft,山本 康彦

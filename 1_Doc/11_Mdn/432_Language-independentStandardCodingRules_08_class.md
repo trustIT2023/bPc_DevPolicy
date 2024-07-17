@@ -900,4 +900,4 @@ console.log(order.confirm());
 
 ## 引用文献
 
-> [プログラミング中級者になりたい人のためのクリーンコード入門_Udemy_CodeMafia](https://www.udemy.com/course/clean-code-tutorial/learn/lecture/34443676?start=0#overview)
+> [プログラミング中級者になりたい人のためのクリーンコード入門_Udemy_CodeMafia](https://www.udemy.com/course/clean-code-tutorial/?couponCode=THANKSLEARNER24)
