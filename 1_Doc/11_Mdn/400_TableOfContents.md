@@ -16,7 +16,7 @@
 
 ### [GitHub](413_GitHub.md)
 
-###  Mermaid(作成中]
+### Mermaid(作成中)
 
 ---
 
@@ -24,7 +24,7 @@
 
 ### [データベース](421_DB_00_TableOfContents.md)
 
-###  画面デザイン(作成中]
+### 画面デザイン(作成中)
 
 ### [開発環境](423_DevelopmentEnvironment.md)
 
@@ -79,6 +79,8 @@
 ### [各種一般検索](462_GeneralSearch.md)
 
 ### [関連用語説明](463_WordDef_Net.md)
+
+## 研修・教育(作成中)
 
 ---
 
