@@ -26,6 +26,8 @@
 
 ### [マークダウンGitHub](01_Doc_05_MdnGit_1_BaseConcept.md)
 
+#### [運用方針(マニュアル抜粋))](01_Doc_05_MdnGit_6_OpRule.md)
+
 ---
 
 **以下は未公開**
