@@ -4,7 +4,7 @@
 
 ### [基本方針](00_Policy_01_BasePolicy.md)
 
-### [著作権遵守編（理念・法的根拠のみ）](00_Policy_02_Copyright_1_LegalBase.md)
+### [著作権遵守編（理念・法的根拠）](00_Policy_02_Copyright_1_LegalBase.md)
 
 ### [品質基準](00_Policy_03_QC.md)
 
@@ -14,19 +14,17 @@
 
 ---
 
-## 01_ドキュメント管理(基本概念のみ公開)
+## 01_ドキュメント管理(部分公開)
 
 ### [ドキュメント体系](01_Doc_01_DocStruct_1_BaseConcept.md)
 
 ### [マークダウン](01_Doc_02_Mdn_1_BaseConcept.md)
 
-### [GitとGitHub](01_Doc_03_Git_1_BaseConcept.md)
-
 ### [Mermaid](01_Doc_04_Mermaid_1_BaseConcept.md)
 
 ### [マークダウンGitHub](01_Doc_05_MdnGit_1_BaseConcept.md)
 
-#### [運用方針(マニュアル抜粋))](01_Doc_05_MdnGit_6_OpRule.md)
+#### [運用方針(マニュアル抜粋)](01_Doc_05_MdnGit_6_OpRule.md)
 
 ---
 

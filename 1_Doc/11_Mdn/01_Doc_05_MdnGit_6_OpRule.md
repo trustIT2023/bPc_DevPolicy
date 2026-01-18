@@ -150,11 +150,3 @@ GitHubでExcelやPowerPointを開こうとすると、中身が表示されず�
 
    ![Alt](../13_Ref/01_Doc/01_Doc_05_MdnGit_1_Policy_mak_GitHubManual_15.png)
 
----
-
-## 他社の利用事例紹介
-
-> [!IMPORTANT]  
-> **クックバッド社のMarkdownとGitHubを用いた導入事例**
-
-- [社内規程を便利に管理](https://techlife.cookpad.com/entry/2019/06/26/182322)
