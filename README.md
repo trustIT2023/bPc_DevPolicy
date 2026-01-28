@@ -2,29 +2,29 @@
 
 ## 00_方針・総論
 
-### [基本方針](00_Policy_01_BasePolicy.md)
+### [基本方針](https://github.com/trustIT2023/bPc_DevPolicy/blob/main/1_Doc/11_Mdn/00_Policy_01_BasePolicy.md)
 
-### [著作権遵守編（理念・法的根拠）](00_Policy_02_Copyright_1_LegalBase.md)
+### [著作権遵守編（理念・法的根拠）](https://github.com/trustIT2023/bPc_DevPolicy/blob/main/1_Doc/11_Mdn/00_Policy_02_Copyright_1_LegalBase.md)
 
-### [品質基準](00_Policy_03_QC.md)
+### [品質基準](https://github.com/trustIT2023/bPc_DevPolicy/blob/main/1_Doc/11_Mdn/00_Policy_03_QC.md)
 
-### [5S(整理・整頓・清掃・清潔・しつけ）](00_Policy_04_5S.md)
+### [5S(整理・整頓・清掃・清潔・しつけ）](https://github.com/trustIT2023/bPc_DevPolicy/blob/main/1_Doc/11_Mdn/00_Policy_04_5S.md)
 
-### [Microsoftへの選択と集中](00_Policy_05_Microsoftへの選択と集中.md)
+### [Microsoftへの選択と集中](https://github.com/trustIT2023/bPc_DevPolicy/blob/main/1_Doc/11_Mdn/00_Policy_05_Microsoft%E3%81%B8%E3%81%AE%E9%81%B8%E6%8A%9E%E3%81%A8%E9%9B%86%E4%B8%AD.md)
 
 ---
 
 ## 01_ドキュメント管理(部分公開)
 
-### [ドキュメント体系](01_Doc_01_DocStruct_1_BaseConcept.md)
+### [ドキュメント体系](https://github.com/trustIT2023/bPc_DevPolicy/blob/main/1_Doc/11_Mdn/01_Doc_01_DocStruct_1_BaseConcept.md)
 
-### [マークダウン](01_Doc_02_Mdn_1_BaseConcept.md)
+### [マークダウン](https://github.com/trustIT2023/bPc_DevPolicy/blob/main/1_Doc/11_Mdn/01_Doc_02_Mdn_1_BaseConcept.md)
 
-### [Mermaid](01_Doc_04_Mermaid_1_BaseConcept.md)
+### [Mermaid](https://github.com/trustIT2023/bPc_DevPolicy/blob/main/1_Doc/11_Mdn/01_Doc_04_Mermaid_1_BaseConcept.md)
 
-### [マークダウンGitHub](01_Doc_05_MdnGit_1_BaseConcept.md)
+### [マークダウンGitHub](https://github.com/trustIT2023/bPc_DevPolicy/blob/main/1_Doc/11_Mdn/01_Doc_05_MdnGit_1_BaseConcept.md)
 
-#### [運用方針(マニュアル抜粋)](01_Doc_05_MdnGit_6_OpRule.md)
+#### [運用方針(マニュアル抜粋)](https://github.com/trustIT2023/bPc_DevPolicy/blob/main/1_Doc/11_Mdn/01_Doc_05_MdnGit_6_OpRule.md)
 
 ---
 
